@@ -325,25 +325,13 @@ HashMap → minutos totales por médico
 2. Abrir cada práctico en tu IDE (Eclipse, IntelliJ IDEA o VS Code).
 3. Compilar y ejecutar desde la clase `Main.java` correspondiente.
 
----
-
-## 💬 Commits recomendados
-
-```bash
-feat: crear clases principales y estructura base
-feat: implementar funcionalidades principales
-fix: corregir validaciones o errores lógicos
-refactor: mejorar legibilidad y organización del código
-```
-
----
 
 ## 👨‍💻 Autor
 
 **Francisco Martínez**
 📅 Año: 2025
 Materia: *Informática III* – Estructuras de Datos en Java
-Institución: *[Agregar nombre de la institución si querés]*
+Institución: Centro Regional Universitario Córdoba (IUA)
 
 ---
 
