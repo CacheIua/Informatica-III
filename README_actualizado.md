@@ -236,7 +236,7 @@ Cada carpeta contiene el código fuente y una breve descripción de los ejercici
 Este proyecto implementa un sistema integral para la **gestión de turnos médicos, planificación de quirófanos y reportes hospitalarios**, utilizando estructuras de datos eficientes, en base a los requerimientos del **Trabajo Práctico Integrador de Informática 3 (IUA, 2025)**.
 
 **Estructura del proyecto:**
-
+```
 /src
 ├── agenda
 │ └── AgendaMedicoAVL.java
@@ -258,7 +258,7 @@ Este proyecto implementa un sistema integral para la **gestión de turnos médic
 ├── medicos.csv
 ├── pacientes.csv
 └── turnos.csv
-
+```
 
 
 ### 1️⃣ Agenda médica (AVL)
@@ -267,7 +267,6 @@ Este proyecto implementa un sistema integral para la **gestión de turnos médic
 📌 Control de turnos sin choques exactos  
 🟢 AVL balanceado automáticamente
 
-```java
 void addTurno(Turno t);     // Inserción: O(log n)
 List<Turno> listar();       // Listado cronológico: O(n)
 ###2️⃣ Listado ordenado
