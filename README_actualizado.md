@@ -319,7 +319,7 @@ HashMap → minutos totales por médico
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/estructuras-java-2025.git
+   git clone https://github.com/CacheIua/Informatica-III.git
    cd estructuras-java-2025
    ```
 2. Abrir cada práctico en tu IDE (Eclipse, IntelliJ IDEA o VS Code).
