@@ -1,0 +1,6 @@
+id,dni,matricula,fechaHora,duracionMin,motivo
+T001,12345678,A001,2025-12-15T10:00,30,Control
+T002,87654321,A001,2025-12-15T11:00,45,Dolor de cabeza
+T003,11112222,B002,2025-12-16T09:15,60,Chequeo
+T004,33334444,C003,2025-12-17T14:30,30,Consulta neurológica
+T005,55556666,D004,2025-12-18T13:00,20,Revisión pediátrica
